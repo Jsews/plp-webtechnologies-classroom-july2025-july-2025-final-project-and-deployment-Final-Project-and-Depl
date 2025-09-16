@@ -66,7 +66,7 @@ The Edudraft website contains the following pages:
 The website is ready to be deployed on **Netlify**:
 1. Sign in to [Netlify](https://www.netlify.com/).
 2. Drag and drop your project folder or connect your GitHub repository.
-3. The site will automatically be hosted and given a live URL="edudraft.netlify.app"
+3. The site will automatically be hosted and given a live URL ="edudraft.netlify.app"
    
 
 ---
