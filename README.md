@@ -72,7 +72,7 @@ also by using Github Pages ="https://jsews.github.io/plp-webtechnologies-classro
 
 ## Live URL
 Once deployed, your site will be accessible via the URL provided by Netlify.
-
+Netlifylink ="edudraft.netlify.app"
 ---
 
 ## Notes
