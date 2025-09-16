@@ -41,7 +41,7 @@ The Edudraft website contains the following pages:
 
 ## File Structure
 
-edudraft/
+edudraft/<br>
 │
 ├── index.html
 ├── home.html
