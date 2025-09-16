@@ -67,14 +67,13 @@ The website is ready to be deployed on **Netlify**:
 1. Sign in to [Netlify](https://www.netlify.com/).
 2. Drag and drop your project folder or connect your GitHub repository.
 3. The site will automatically be hosted and given a live URL.
- Netlifylink ="edudraft.netlify.app"
+ Netlify link = edudraft.netlify.app
 
 ---
 
 ## Live URL
 Once deployed, your site will be accessible via the URL provided by Netlify.
- Netlifylink ="edudraft.netlify.app"
- Github Pages ="https://jsews.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/"
+Github Pages ="https://jsews.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/"
  
 ---
 
