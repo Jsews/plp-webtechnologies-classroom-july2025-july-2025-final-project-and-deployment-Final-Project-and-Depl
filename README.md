@@ -40,7 +40,8 @@ The Edudraft website contains the following pages:
 ---
 
 ## File Structure
-/edudraft
+
+edudraft/
 │
 ├── index.html
 ├── home.html
@@ -49,16 +50,19 @@ The Edudraft website contains the following pages:
 ├── templates.html
 ├── contact.html
 ├── README.md
-├── /css
-│ └── style.css
-├── /js
-│ └── script.js
-└── /assets
-└── /downloads
-├── Thesis_Template.docx
-├── CV_Template.docx
-├── Research_Paper_Template.docx
-└── Presentation_Slides.pptx
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── assets/
+    └── downloads/
+        ├── Thesis_Template.docx
+        ├── CV_Template.docx
+        ├── Research_Paper_Template.docx
+        └── Presentation_Slides.pptx
 
 ---
 
